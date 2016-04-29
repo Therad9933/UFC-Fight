@@ -61,6 +61,7 @@ public class UFCfight
 				{
 					playerFighter = 5;
 				}
+			// test
 			System.out.println("You picked " + fighter +" you will fight " + opponent + " for your first fight.");
 			System.out.println("   ");
 			System.out.println("   ");
